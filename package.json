@@ -8,6 +8,10 @@
     "start": "webpack-dev-server --progress --profile --colors",
     "lint": "eslint --ext js --ext jsx src || exit 0"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/mxz96102/React-webpack-router-starter"
+},
   "author": "Dom Ming",
   "license": "MIT",
   "dependencies": {
